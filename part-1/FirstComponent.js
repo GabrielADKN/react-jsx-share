@@ -1,6 +1,6 @@
 const FirstComponent = () => {
 
     return (
-        <h1>Hello World</h1>
+        <h1>My First Component</h1>
     )
 }
